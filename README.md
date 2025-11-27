@@ -16,6 +16,9 @@ Credits are given bellow.
 yarn install
 yarn dev
 ```
+```bash
+npm i timeline-bar-slider
+```
 
 ## Usage
 
