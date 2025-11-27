@@ -29,7 +29,7 @@ Basic usage (simplified from `src/app/page.tsx`):
 ```tsx
 import React, { useState } from 'react';
 import { endOfToday, set } from 'date-fns';
-import TimeRange from '@/lib';
+import TimeRange from "timeline-bar-slider";
 
 const now = new Date();
 const getTodayAtSpecificHour = (hour: number = 12): Date =>
